@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Counterterrorists
+- 👋 Hi, I’m @Counterterrorists a young programmer.
 - 👀 I’m interested in ...html,css and a.i code
 - 🌱 I’m currently learning ...css
 - 💞️ I’m looking to collaborate on ...all 
